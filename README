@@ -1,0 +1,35 @@
+doronbruder
+
+204917629
+
+Doron Bruder
+
+ Websites:"wikipadia"
+
+No special comments
+
+This project includes the implements of the following classes:
+Car :
+ A class that represented a cars that can be used in games such as "rush hour"
+Our car made of 4 attrributes - 
+Name -Location- represented by coordinates x,y when x is vertical coordinate 
+Orientation- represented by 1,0 - 1 is horizontal and 0 is vertical
+Length -an integer between 2 to 4 
+
+Board :
+A class representes a board of size 7*7 of a rush hour game made of two attributes 
+A matrix that represents the visual aspect of the board 
+And a cars list the hold all the cars that are on the board  every   moment
+
+
+Game:
+A class that represents the game "rush hour"
+Made of one single attribute a "ready board" fill with cars
+Using above car and board classes
+It is basically describe that process of a rush hour game 
+   
+
+
+
+
+ 
